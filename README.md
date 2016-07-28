@@ -1,6 +1,6 @@
 # Awesome Python Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Awesome Python blogs and newsletters for python developers ands newbies
+A curated list of Awesome Python blogs and newsletters for python developers and newbies
 
 ![alt text](https://www.python.org/static/opengraph-icon-200x200.png)
 ## Tips and Tutorials
