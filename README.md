@@ -2,8 +2,7 @@
 
 A curated list of Awesome Python blogs and newsletters for python developers ands newbies
 
-![alt text](https://svn.python.org/www/branches/rest2web/beta.python.org/resources/design/logo/website-python-logo-vector.png)
-
+![alt text](https://www.python.org/static/opengraph-icon-200x200.png)
 ## Tips and Tutorials
 
 * [Python Tips](https://pythontips.com/)	  - Your daily dose of bite sized python tips
