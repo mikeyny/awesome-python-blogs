@@ -1,6 +1,8 @@
 # Awesome Python Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Python blogs and newsletters for python developers ands newbies
+A curated list of Awesome Python blogs and newsletters for python developers ands newbies
+
+![alt text](https://svn.python.org/www/branches/rest2web/beta.python.org/resources/design/logo/website-python-logo-vector.png)
 
 ## Tips and Tutorials
 
@@ -33,17 +35,17 @@ A curated list of awesome Python blogs and newsletters for python developers and
 
 ### Newsletters
 
-* [Import Python](http://importpython.com/)
-* [Python Weekly](http://www.pythonweekly.com/)
-* [Pycoders](http://pycoders.com/)
-* [Libhunt](https://python.libhunt.com/newsletter)
-* [Offical Python Mailing Lists](https://mail.python.org/mailman/listinfo)
+* [Import Python](http://importpython.com/)	-Weekly Python Newsletter containing Python Articles, Projects, Videos, Tweets delivered in your inbox
+* [Python Weekly](http://www.pythonweekly.com/)	-A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
+* [Pycoders](http://pycoders.com/)	-A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
+* [Libhunt](https://python.libhunt.com/newsletter)	-A weekly overview of the most popular Python news, articles and packages
+* [Offical Python Mailing Lists](https://mail.python.org/mailman/listinfo)	-A listing of all the public mailing lists on mail.python.org
 
 ### [Pythonblogs.com Blogs](http://www.pythonblogs.com/)
 
+Pythonblogs.com contains hundreds of python blogs below are some of its top title worthy of the awesome title:
 * [Pythonthusiast](http://pythonthusiast.pythonblogs.com/)
-* [Way to Python](http://waytopython.pythonblogs.com/
-)
+* [Way to Python](http://waytopython.pythonblogs.com/)
 * [Python Resources](http://python-resources.pythonblogs.com/)
 * [Python for Analysis](http://python-for-analysts.pythonblogs.com/)
 * [Python Diaries](http://python-diaries.pythonblogs.com/)
