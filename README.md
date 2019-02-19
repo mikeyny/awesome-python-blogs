@@ -30,6 +30,7 @@ A curated list of Awesome Python blogs and newsletters for python developers and
 * [Python Engineering at Microsoft](https://blogs.msdn.microsoft.com/pythonengineering/ ) -Using Python to drive innovation
 * [Jeff Knupp](https://jeffknupp.com/)	-The personal blog of author, speaker, tutor, and professional software engineer Jeff Knupp
 * [My Life of Code](https://mikeyny.github.io/)	-A cool by blog by Michael Nyamande on programming.
+* [Nikita Sobolev](https://sobolevn.me) -On good software, mediocre software, and bad software. Also rants about management and development processes
 
 
 ### Newsletters
