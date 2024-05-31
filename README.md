@@ -39,6 +39,7 @@ A curated list of Awesome Python blogs and newsletters for python developers and
 * [Pycoders](http://pycoders.com/)	-A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
 * [Libhunt](https://python.libhunt.com/newsletter)	-A weekly overview of the most popular Python news, articles and packages
 * [Offical Python Mailing Lists](https://mail.python.org/mailman/listinfo)	-A listing of all the public mailing lists on mail.python.org
+* [Air Around AI](https://airaroundai.substack.com/)	-Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers.
 
 ### [Pythonblogs.com Blogs](http://www.pythonblogs.com/)
 
