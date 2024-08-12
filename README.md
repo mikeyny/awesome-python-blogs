@@ -21,7 +21,7 @@ A curated list of Awesome Python blogs and newsletters for python developers and
 * [Lucumr](http://lucumr.pocoo.org/)	-Armin Ronacher's Thoughts and Writings
 * [Doug Hellman](https://doughellmann.com/blog/)	-Python, OpenStack, and Open Source
 * [Interactive Python](http://interactivepython.org/runestone/static/everyday/index.html)	-Everyday python project tutorials
-* [AnunRocks](http://arunrocks.com/)	-A blog focusing on popular Django tutorials, Python tips, reviews, talks and many advanced topics related to programming
+* [ArunRocks](http://arunrocks.com/)	-A blog focusing on popular Django tutorials, Python tips, reviews, talks and many advanced topics related to programming
 * [Effbot](http://effbot.org/)	- Hundreds of articles on Python and related technologies
 * [Python Conquers the Universe](https://pythonconquerstheuniverse.wordpress.com/)	-Adventures across space and time with the Python programming language
 * [All thing Python](http://www.malemburg.com/)	- Blog by Marc-André Lemburg, Senior Software Architect, Python Core Developer, Trainer, Coach and Consultant
